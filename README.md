@@ -1,6 +1,10 @@
 
 [![Build Status](https://travis-ci.org/sophiesheehan/railsgirls.svg?branch=master)](https://travis-ci.org/sophiesheehan/railsgirls)
 
+== todo
+* factory girls to load up fixture data based on the application model
+* vcr to record responses from api or to mock responses for new api's
+* fakeweb another way to mock api's
 
 == README
 
